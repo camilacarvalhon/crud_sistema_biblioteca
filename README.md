@@ -1,7 +1,7 @@
 ## Projeto - Crud Sistema Biblioteca
 
 
-## :rocket: Sobre o Projeto
+## :rocket: Sobre o projeto
 Criado com o propósito de testar os métodos HTTP.
 
 ### :hammer_and_wrench: Dependências 
@@ -10,7 +10,6 @@ Criado com o propósito de testar os métodos HTTP.
 - Pip
 - Django 2.2
 - Html
-- CSS
 - Bootstrap
 
 ### :hammer: Resumo dos métodos HTTPS
